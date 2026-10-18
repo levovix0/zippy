@@ -1,3 +1,7 @@
+# About this fork
+
+This is [zippy](https://github.com/guzba/zippy) without tests in the repo and in the git history. This way the repository weights ~650 Kb instead of ~150 Mb, which is more [atlas](https://github.com/nim-lang/atlas)-friendly. This fork is used for [pixie_reorganized](https://github.com/levovix0/pixie_reorganized). Do not make PR for this repository, make them for the original [zippy](https://github.com/guzba/zippy).
+
 # Zippy
 
 `nimble install zippy`
